@@ -49,7 +49,7 @@ HS      | nonbinary   | 5.43 sec      | 184         |
 
 - `books_enrichment_80.csv`
 
-	Additional source metadata: LibriVox id number (primary key), updated title (if incomplete in LibriVox API), LibriVox recordings upload date, count and duration of sections read by Linda Johnson (LJ).
+	Additional source metadata: LibriVox id number (primary key), updated title (if incomplete in LibriVox API), LibriVox recordings upload date, count and duration of sections read by Linda Johnson ('LJ').
 
 - Audio recordings:
 	- Audio files for LJ, WS, HS can be downloaded from [`'wavs'`][5] directory, containing a subdirectory for each reader.
