@@ -16,7 +16,7 @@ from 3 to 31 words (mean 18), composed of full sentences, fragments of a larger 
 
 
 sources            | excerpts | 1 sentence | < sentence | > sentence | mean words | min words | max words
-:----------------- | -------- | ---------- | ---------- | ---------- | ---------- | --------- | --------:
+:----------------- | -------: | ---------: | ---------: | ---------: | ---------: | --------: | --------:
 LJ Speech unique   | 20       | 14         | 5          | 1          | 18.5       | 10        | 30      |
 LJ Speech shared   | 10       | 8          | 2          | 0          | 19.9       | 14        | 27      |
 LJ2 Corpus unique  | 20       | 12         | 6          | 2          | 18.3       | 6         | 28      |
@@ -25,7 +25,7 @@ Librivox fiction   | 20       | 8          | 9          | 3          | 18.6     
 
 
 reader  | demographic | mean duration | words per min
-:------ | ----------- | ------------- | ------------:
+:------ | :---------- | ------------: | ------------:
 LJ      | woman       | 6.35 sec      | 160         |
 MB      | woman       | 6.57 sec      | 159         |
 WS      | man         | 5.13 sec      | 203         |
