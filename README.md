@@ -2,11 +2,11 @@
 
 ### Harper Strickland, 2025
 
-This repository contains a speech corpus of eighty selections from 38 public domain source texts, all available as public domain full text audio recordings from [LibriVox.org][1]:.
+This repository contains a speech corpus of eighty selections from 38 public domain source texts, all available as public domain full text audio recordings from [LibriVox.org][1].
 
 [1]: <https://librivox.org/pages/about-librivox/> "About LibriVox"
 
-30 excerpts are from recordings available in the [LJ Speech Dataset][2]:, and 30 are from recordings represented in the LJ2 Corpus. For each set of 30, 20 are from source texts that only appear in one of these corpora, and 10 are from sources with chapters existing in both corpora. Both LJ Speech and the LJ2 Corpus contain only non-fiction texts. The final 20 excerpts are from fiction source chapters available on LibriVox from the same reader as LJ Speech and the LJ2 Corpus.
+30 excerpts are from recordings available in the [LJ Speech Dataset][2], and 30 are from recordings represented in the [LJ2 Corpus][3]. For each set of 30, 20 are from source texts that only appear in one of these corpora, and 10 are from sources with chapters existing in both corpora. Both LJ Speech and the LJ2 Corpus contain only non-fiction texts. The final 20 excerpts are from fiction source chapters available on LibriVox from the same reader as LJ Speech and the LJ2 Corpus.
 
 [2]: <https://keithito.com/LJ-Speech-Dataset/> "Access LJ Speech"
 [3]: <https://github.com/speakingofdata/LJ2_Corpus> "Access LJ2 Corpus"
