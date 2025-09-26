@@ -1,19 +1,20 @@
 # 80_Excerpts
 
-
 ### Harper Strickland, 2025
 
+This repository contains a speech corpus of eighty selections from 38 public domain source texts, all available as public domain full text audio recordings from [LibriVox.org][1]:.
+
+[1]: <https://librivox.org/pages/about-librivox/> "About LibriVox"
+
+30 excerpts are from recordings available in the [LJ Speech Dataset][2]:, and 30 are from recordings represented in the LJ2 Corpus. For each set of 30, 20 are from source texts that only appear in one of these corpora, and 10 are from sources with chapters existing in both corpora. Both LJ Speech and the LJ2 Corpus contain only non-fiction texts. The final 20 excerpts are from fiction source chapters available on LibriVox from the same reader as LJ Speech and the LJ2 Corpus.
+
+[2]: <https://keithito.com/LJ-Speech-Dataset/> "Access LJ Speech"
+[3]: <https://github.com/speakingofdata/LJ2_Corpus> "Access LJ2 Corpus"
+
+Each excerpt is read by multiple adult American voices, with multiple genders represented.
 
 
-describe
-
-all adult American voices, multiple genders represented
-
-summary
-
-from 3 to 31 words (mean 18), composed of full sentences, fragments of a larger sentence, or multiple sentences
-38 public domain source texts, all available as public domain audio recordings from LibriVox.org
-
+### Summary Statistics:
 
 sources            | excerpts | 1 sentence | < sentence | > sentence | mean words | min words | max words
 :----------------- | -------: | ---------: | ---------: | ---------: | ---------: | --------: | --------:
@@ -24,7 +25,7 @@ LJ2 Corpus shared  | 10       | 8          | 2          | 0          | 16.9     
 Librivox fiction   | 20       | 8          | 9          | 3          | 18.6       | 3         | 31      |
 
 
-reader  | demographic | mean duration | words per min
+readers | demographic | mean duration | words per min
 :------ | :---------- | ------------: | ------------:
 LJ      | woman       | 6.35 sec      | 160         |
 MB      | woman       | 6.57 sec      | 159         |
@@ -40,16 +41,16 @@ HS      | nonbinary   | 5.43 sec      | 184         |
 
 - `LV_books_data_80.json`
 
-	Original source metadata available via LibriVox's [API][1]: id number, title, description, language, copyright year, section/chapter count, urls (text source, rss, zip file, project, LibriVox), total time (h\:m\:s and seconds), authors (name and birth/death years).
+	Original source metadata available via LibriVox's [API][4]: id number, title, description, language, copyright year, section/chapter count, urls (text source, rss, zip file, project, LibriVox), total time (h\:m\:s and seconds), authors (name and birth/death years).
 
-[1]: <https://librivox.org/api/info> "LibriVox API documentation"
+[4]: <https://librivox.org/api/info> "LibriVox API documentation"
 
 - `books_enrichment_80.csv`
 
 	Additional source metadata: LibriVox id number (primary key), updated title (if incomplete in LibriVox API), LibriVox recordings upload date, count and duration of sections read by Linda Johnson (LJ).
 
 - Audio recordings:
-	- Audio files for LJ, WS, HS can be downloaded from [`'wavs'`][2] directory, containing a subdirectory for each reader.
+	- Audio files for LJ, WS, HS can be downloaded from [`'wavs'`][5] directory, containing a subdirectory for each reader.
 	- Access to MB recordings is limited based on intended use; for more information, contact <a href="mailto:speakingofdata\@gmail.com">speakingofdata\@gmail.com</a> with project details.
 
-[2]: <https://github.com/speakingofdata/80_Excerpts/tree/main/wavs> "wavs subdirectory"
+[5]: <https://github.com/speakingofdata/80_Excerpts/tree/main/wavs> "wavs subdirectory"
