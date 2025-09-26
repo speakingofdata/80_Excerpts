@@ -2,6 +2,8 @@
 
 ### Harper Strickland, 2025
 
+## Description:
+
 This repository contains a speech corpus of 80 selections from 38 public domain source texts, all available as public domain full text audio recordings from [LibriVox.org][1].
 
 [1]: <https://librivox.org/pages/about-librivox/> "About LibriVox"
@@ -14,7 +16,7 @@ This repository contains a speech corpus of 80 selections from 38 public domain 
 Each excerpt is read by multiple adult American voices, with multiple genders represented. 'LJ' is the voice of LJ Speech and the LJ2 Corpus.
 
 
-### Summary Statistics:
+## Summary Statistics:
 
 sources            | excerpts | 1 sentence | < sentence | > sentence | mean words | min words | max words
 :----------------- | -------: | ---------: | ---------: | ---------: | ---------: | --------: | --------:
@@ -51,6 +53,6 @@ HS      | nonbinary   | 5.43 sec      | 184         |
 
 - Audio recordings:
 	- Audio files for LJ, WS, HS can be downloaded from [`'wavs'`][5] directory, containing a subdirectory for each reader.
-	- Access to MB recordings is limited based on intended use; for more information, contact <a href="mailto:speakingofdata\@gmail.com">speakingofdata\@gmail.com</a> with project details.
+	- Access to MB recordings is limited based on intended use; for more information, contact <a href="mailto:speakingofdata\@gmail.com">speakingofdata\@gmail.com</a> with project details and requirements.
 
 [5]: <https://github.com/speakingofdata/80_Excerpts/tree/main/wavs> "wavs subdirectory"
