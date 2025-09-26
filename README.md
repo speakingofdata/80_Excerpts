@@ -3,7 +3,6 @@
 
 ### Harper Strickland, 2025
 
-----------
 
 
 describe
@@ -34,8 +33,6 @@ HS      | nonbinary   | 5.43 sec      | 184
 
 
 ## Files:
-
-----------
 
 - `metadata_80.csv`
 
