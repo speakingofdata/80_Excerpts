@@ -18,7 +18,7 @@ Each excerpt is read by multiple adult American voices, with multiple genders re
 
 ## Summary Statistics:
 
-**Transcript Details**
+**Transcript Details:**
 
 sources            | excerpts | 1 sentence | < sentence | > sentence | mean words | min words | max words
 :----------------- | -------: | ---------: | ---------: | ---------: | ---------: | --------: | --------:
@@ -28,7 +28,7 @@ LJ2 Corpus unique  | 20       | 12         | 6          | 2          | 18.3     
 LJ2 Corpus shared  | 10       | 8          | 2          | 0          | 16.9       | 5         | 25      |
 Librivox fiction   | 20       | 8          | 9          | 3          | 18.6       | 3         | 31      |
 
-**Voice Characteristics**
+**Voice Characteristics:**
 
 readers | demographic | mean duration | words per min
 :------ | :---------- | ------------: | ------------:
