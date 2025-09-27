@@ -55,7 +55,7 @@ HS      | nonbinary   | 5.43 sec      | 184         |
 	Additional source metadata: LibriVox id number (primary key), updated title (if incomplete in LibriVox API), LibriVox recordings upload date, count and duration of sections read by Linda Johnson ('LJ').
 
 - Audio recordings:
-	- Audio files for LJ, WS, HS can be downloaded from [`'wavs'`][5] directory, containing a subdirectory for each reader.
+	- Audio files for LJ, WS, HS can be downloaded from [`/wavs`][5] directory, containing a subdirectory for each reader.
 	- Access to MB recordings is limited based on intended use; for more information, contact <a href="mailto:speakingofdata\@gmail.com">speakingofdata\@gmail.com</a> with project details and requirements.
 
 [5]: <https://github.com/speakingofdata/80_Excerpts/tree/main/wavs> "wavs subdirectory"
