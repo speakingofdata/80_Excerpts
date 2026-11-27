@@ -30,7 +30,7 @@ Librivox fiction   | 20       | 8          | 9          | 3          | 18.6     
 
 **Voice Characteristics:**
 
-readers | demographic | mean duration | min duration | max duration | words per min | pause time | mean F0 | median F0 | F0 range (5%-95%) | mean F1 | mean F2 | mean F3 | HNR mean  | jitter | shimmer
+readers | demographic | mean duration | min duration | max duration | words / min | pause time | mean F0 | median F0 | F0 range (5-95%) | mean F1 | mean F2 | mean F3 | HNR mean  | jitter | shimmer
 :------ | :---------- | ------------: | -----------: | -----------: | ------------: | ---------: | ------: | --------: | ---------: | ------: | ------: | ------: | ------: | -----: | ------:
 LJ      | woman       | 7.01 sec      | 2.10 sec     | 9.98 sec     | 159           | 14.6%      | 203 Hz  | 194 Hz    | 138–300 Hz | 532 Hz  | 1706 Hz | 2807 Hz | 13.0 dB | 2.1%   | 8.7%  |
 MB      | woman       | 7.05 sec      | 1.82 sec     | 10.97 sec    | 158           | 15.8%      | 173 Hz  | 167 Hz    | 140–234 Hz | 625 Hz  | 1662 Hz | 2710 Hz | 8.2 dB  | 1.6%   | 9.6%  |
