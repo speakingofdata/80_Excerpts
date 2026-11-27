@@ -30,12 +30,12 @@ Librivox fiction   | 20       | 8          | 9          | 3          | 18.6     
 
 **Voice Characteristics:**
 
-readers | demographic | mean duration | min duration | max duration | words per min | pause time | mean F0 | F0 range   | mean F1 | mean F2 | mean F3 | HNR     | jitter | shimmer
-:------ | :---------- | ------------: | -----------: | -----------: | ------------: | ---------: | ------: | ---------: | ------: | ------: | ------: | ------: | -----: | ------:
-LJ      | woman       | 7.01 sec      | 2.10 sec     | 9.98 sec     | 159           | 14.6%      | 209 Hz  | 100–500 Hz | 531 Hz  | 1708 Hz | 2808 Hz | 12.4 dB | 2.1%   | 8.7%  |
-MB      | woman       | 7.05 sec      | 1.82 sec     | 10.97 sec    | 158           | 15.8%      | 176 Hz  | 100–494 Hz | 621 Hz  | 1664 Hz | 2711 Hz | 7.8 dB  | 1.5%   | 9.5%  |
-WS      | man         | 5.57 sec      | 1.47 sec     | 8.91 sec     | 201           | 5.8%       | 109 Hz  | 75–298 Hz  | 518 Hz  | 1572 Hz | 2509 Hz | 7.3 dB  | 2.5%   | 11.7% |
-HS      | nonbinary   | 6.13 sec      | 1.47 sec     | 11.93 sec    | 182           | 9.8%       | 184 Hz  | 85–399 Hz  | 440 Hz  | 1518 Hz | 2356 Hz | 12.1 dB | 2.4%   | 9.9%  |
+readers | demographic | mean duration | min duration | max duration | words per min | pause time | mean F0 | median F0 | F0 range (5%-95%) | mean F1 | mean F2 | mean F3 | HNR mean  | jitter | shimmer
+:------ | :---------- | ------------: | -----------: | -----------: | ------------: | ---------: | ------: | --------: | ---------: | ------: | ------: | ------: | ------: | -----: | ------:
+LJ      | woman       | 7.01 sec      | 2.10 sec     | 9.98 sec     | 159           | 14.6%      | 203 Hz  | 194 Hz    | 138–300 Hz | 532 Hz  | 1706 Hz | 2807 Hz | 13.0 dB | 2.1%   | 8.7%  |
+MB      | woman       | 7.05 sec      | 1.82 sec     | 10.97 sec    | 158           | 15.8%      | 173 Hz  | 167 Hz    | 140–234 Hz | 625 Hz  | 1662 Hz | 2710 Hz | 8.2 dB  | 1.6%   | 9.6%  |
+WS      | man         | 5.57 sec      | 1.47 sec     | 8.91 sec     | 201           | 5.8%       | 108 Hz  | 103 Hz    | 80–149 Hz  | 518 Hz  | 1570 Hz | 2508 Hz | 7.1 dB  | 2.5%   | 11.8% |
+HS      | nonbinary   | 6.13 sec      | 1.47 sec     | 11.93 sec    | 182           | 9.8%       | 182 Hz  | 175 Hz    | 135–252 Hz | 454 Hz  | 1561 Hz | 2430 Hz | 13.0 dB | 2.4%   | 9.9%  |
 
 
 ## Files:
